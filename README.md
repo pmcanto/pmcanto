@@ -1,4 +1,4 @@
 ### oi! 👋
 
-- 🌱 I’m currently learning Python and Kivy!
+- 🌱 I’m currently learning Python, Kivy and C!
 
